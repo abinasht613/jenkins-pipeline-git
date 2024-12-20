@@ -1,0 +1,6 @@
+https://www.youtube.com/watch?v=y4RcDlfYKB8&t=6344s
+https://www.linuxtechi.com/how-to-install-jenkins-on-ubuntu/
+username:jenkins
+password:jenkins
+
+sudo chown -R jenkins:root /var/www/html/folder_name
